@@ -1,3 +1,9 @@
+"""
+Date    : 09/11/2021
+Author  : Nipun Harsha
+"""
+
+
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 
